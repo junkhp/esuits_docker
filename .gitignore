@@ -1,3 +1,6 @@
 *.DS_Store
+docker-compose.yml
 local_settings.py
 containers/app/
+.env
+.env.db
