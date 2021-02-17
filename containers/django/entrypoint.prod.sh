@@ -11,6 +11,5 @@ then
     echo "PostgreSQL started"
 fi
 echo "collect static"
-python manage.py collectstatic --no-input --clear
 
 exec "$@"
